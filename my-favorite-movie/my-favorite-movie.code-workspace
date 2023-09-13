@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../better-semantics-startercode-main/better-semantics-startercode-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my-favorite-movie"
+	}
+}
